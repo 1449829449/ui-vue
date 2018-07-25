@@ -1,2 +1,2 @@
 # ui-vue
-vue练习哭
+vue练习库
